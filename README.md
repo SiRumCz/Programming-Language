@@ -1,2 +1,2 @@
 # Programming-Language
-class works for UVic Operating Systems by Prof Kui Wu
+class works for UVic programming language by Prof Daniel German
